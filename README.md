@@ -1,6 +1,6 @@
 # Auto-Login bot
 
- Auto-login bot using Python Selenium library.
+ Auto-login bot using Python Selenium library.<br>
  Browser used: Chrome
 
 ## Pre-reqs:
