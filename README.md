@@ -23,8 +23,8 @@ pip install selenium
 ## How to Run Auto-Login bot:
 
 1. Copy and save logIn-Bot.py locally on your PC.
-2. Edit line 45 with the URL you want the bot to Auto-login.
-3. Edit lines 40 and 41 with your username and password for URL in step 2.
+2. Edit line 45 with your preferred URL log-in page.
+3. Edit lines 40 and 41 with your username and password for the URL in step 2.
 4. Run logIn-Bot.py in the terminal.
 ```
 python3 logIn-Bot.py
